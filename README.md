@@ -4,7 +4,7 @@
 <p align="center"><img src="https://zupimages.net/up/20/33/3vz7.png" width="727px" height="1000px" alt="aventium softworks"></p>
 
 ## 🌐 Mes création pulbique :
-*DragFaucet
- *Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !
-🔗 * http://dragfaucet.net/
+╏ DragFaucet
+ ╏ Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !
+🔗 ╏ http://dragfaucet.net/
 
