@@ -12,14 +12,23 @@
 Rig 01 :
 
 ↪ 6x Rx580 8g de MSI Armor
+
 ↪ Intel celeron
+
 ↪ Carte mère Gigabyte GA-H110-D3A 
+
 ↪ 4g de ram corsair pour tenir le cap ! (boutade)
+
 ↪ Dual Corsair CX750 Alimentation 750w
+
 ↪ Chassis en bois fais maison
+
 ↪ Rizer noname (pas chers est fais le taff)
+
 ↪ Partition 1 HDD 500g (très vieux disque horloge qui tien)
+
 ↪ Sous Easy Mining OS
+
 
 Rig 02 :
 
@@ -51,6 +60,7 @@ Bah le même que le 02 ^^'
 Why ? 
 
 ↪ Car rien de peux rivalisé avec unes rx570/580/590 et les Radeon VII
+
 ↪ De grandes chances qu'ils soient tous sous noicehash OS !
 
 Pourquoi toujours noicehash ?
