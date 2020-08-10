@@ -1,6 +1,7 @@
 <p align="center"><img src="https://zupimages.net/up/20/33/qo1u.png" width="228px" height="187px" alt="aventium softworks"></p>
 <h1 align="center">OiziZ's Github</h1>
-<p align="center">Youtuber cryptomining et mine miner depuis maintenant 3 ans. Aime la programation et les mangas.</p>
+<p align="center">Youtuber cryptomining et miner depuis maintenant 3 ans. Aime la programation et les mangas.</p>
+<p align="center">Aime le ecchi et hentai et sans fou du regard des autres.s</p>
 <p align="center"><img src="https://zupimages.net/up/20/33/3vz7.png" width="727px" height="1000px" alt="aventium softworks"></p>
 
 ## 🌐 Mes création pulbique :
@@ -57,9 +58,10 @@ Bah le même que le 02 ^^'
 (quand la moula sera présente)
 
 10 rigs de 6x Rx570 8g
+
 Why ? 
 
-↪ Car rien de peux rivalisé avec unes rx570/580/590 et les Radeon VII
+↪ Car rien de peux rivalisé avec une rx570/580/590 et les Radeon VII
 
 ↪ De grandes chances qu'ils soient tous sous noicehash OS !
 
