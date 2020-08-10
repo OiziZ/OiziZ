@@ -24,13 +24,21 @@ Rig 01 :
 Rig 02 :
 
 ↪ 6x 1080ti de chez Msi (oui j'aime msi)
+
 ↪ Carte mère Gigabyte GA-H110-D3A 
+
 ↪ 1g de ram noname
+
 ↪ Dual Gamemax 2000w
+
 ↪ Chassis en bois récup chez Laperie (y'en à pas deux ! 🎵)
+
 ↪ Rizer noname (pas chers est fais le taff)
+
 ↪ Partition 2 HDD 500g (très vieux disque horloge qui tien)
+
 ↪ Sous Noicehash OS (Nicehash en réalisté mais j'aime bien le jeu de mot "noice")
+
 
 Rig 03 :
 
