@@ -11,9 +11,11 @@
 
 🔗 ╏ http://dragfaucet.net/
 
-<a href="https://top.gg/bot/711143371510644767" >
+<p align="center"><a href="https://top.gg/bot/711143371510644767" >
   <img src="https://top.gg/api/widget/711143371510644767.svg" alt="🐲 | DragFaucet" />
 </a>
+</p>
+
 
 
 ## ⛏️ Mon matériel mining :
