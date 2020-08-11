@@ -14,8 +14,6 @@
 <p align="center"><a href="https://top.gg/bot/711143371510644767" >
   <img src="https://top.gg/api/widget/711143371510644767.svg" alt="🐲 | DragFaucet" />
 </a>
-<script src="https://discordbotlist.com/widget/index.js" async></script>
-<dbl-widget bot-id="bot-or-dragfaucet-or-discord" centered></dbl-widget>
 </p>
 
 
