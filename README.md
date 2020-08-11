@@ -6,8 +6,15 @@
 
 ## 🌐 Mes création pulbique :
 🐲 | DragFaucet
- ╏ Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !
+
+╏ Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !
+
 🔗 ╏ http://dragfaucet.net/
+
+<a href="https://top.gg/bot/711143371510644767" >
+  <img src="https://top.gg/api/widget/711143371510644767.svg" alt="🐲 | DragFaucet" />
+</a>
+
 
 ## ⛏️ Mon matériel mining :
 Rig 01 :
