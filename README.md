@@ -3,7 +3,7 @@
 <p align="center">Youtuber cryptomining et miner depuis maintenant 3 ans. Aime la programation et les mangas.</p>
 <p align="center">Aime le ecchi et hentai et sans fou du regard des autres.</p>
 <p align="center"><img src="https://zupimages.net/up/20/33/3vz7.png" width="727px" height="1000px" alt="aventium softworks"></p>
-<p align="center"><img src="https://www.youtube.com/embed/TYpXcakyrYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></p>
+<p align="center"><img src="https://www.youtube.com/embed/TYpXcakyrYk"></p>
 
 ## 🌐 Mes création pulbique :
 🐲 | DragFaucet
