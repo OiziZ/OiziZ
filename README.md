@@ -4,8 +4,6 @@
 <p align="center">Aime le ecchi et hentai et sans fou du regard des autres.</p>
 <p align="center"><img src="https://zupimages.net/up/20/33/3vz7.png" width="727px" height="1000px" alt="aventium softworks"></p>
 
-[![80's time OiziZ](/images/content/4279611/af8d90618f52eb41dd6bdbee0604111a.jpg)](https://www.youtube.com/embed/TYpXcakyrYk)
-
 ## 🌐 Mes création pulbique :
 🐲 | DragFaucet
 
@@ -18,7 +16,7 @@
 </a>
 </p>
 
-
+[![80's time OiziZ](https://zupimages.net/up/20/33/ktpj.jpg)](https://www.youtube.com/watch?v=Mtpnv1D-HXo)
 
 ## ⛏️ Mon matériel mining :
 Rig 01 :
