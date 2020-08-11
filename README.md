@@ -16,7 +16,7 @@
 </a>
 </p>
 
-[![80's time OiziZ](https://zupimages.net/up/20/33/ktpj.jpg)](https://www.youtube.com/watch?v=Mtpnv1D-HXo)
+[![80's time OiziZ](https://zupimages.net/up/20/33/9t6y.jpg)](https://www.youtube.com/watch?v=Mtpnv1D-HXo)
 
 ## ⛏️ Mon matériel mining :
 Rig 01 :
