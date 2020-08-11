@@ -76,5 +76,4 @@ Pourquoi toujours noicehash ?
 
 ↪ Possibilité de réalisé directement des paiment via virement bancaire ! 💱
 
-![](https://media.giphy.com/media/ibXWAE9dNew3Lfsqu2/giphy.gif)
-
+<p align="center"><img src="https://zupimages.net/up/20/33/ktpj.jpg" width="727px" height="1000px" alt="aventium softworks"></p>
