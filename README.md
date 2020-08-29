@@ -4,7 +4,7 @@
 <p align="center">Aime le ecchi et hentai et sans fou du regard des autres.</p>
 <p align="center"><img src="https://zupimages.net/up/20/34/1b8g.png" width="727px" height="1000px" alt="aventium softworks"></p>
 
-## 🌐 Mes création pulbique :
+## 🌐 Mes créations publiques :
 🐲 | DragFaucet
 
 ╏ Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !
@@ -48,7 +48,7 @@ Rig 02 :
 
 ↪ Dual Gamemax 2000w
 
-↪ Chassis en bois récup chez Laperie (y'en à pas deux ! 🎵)
+↪ Chassis en bois récup chez Lapeyre (y'en à pas deux ! 🎵)
 
 ↪ Rizer noname (pas chers est fais le taff)
 
