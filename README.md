@@ -2,7 +2,7 @@
 <h1 align="center">OiziZ's Github</h1>
 <p align="center">Youtuber cryptomining et miner depuis maintenant 3 ans. Aime la programation et les mangas.</p>
 <p align="center">Aime le ecchi et hentai et sans fou du regard des autres.</p>
-<p align="center"><img src="https://zupimages.net/up/20/38/cr8y.jpg" width="3862px" height="4287px" alt="aventium softworks"></p>
+<p align="center"><img src="https://zupimages.net/up/20/38/56n9.jpg" width="848px" height="1200px" alt="aventium softworks"></p>
 
 ## 🌐 Mes créations publiques :
 🐲 | DragFaucet
