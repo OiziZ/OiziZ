@@ -17,9 +17,8 @@
 </p>
 
 ## ⛏️ Mon matériel mining :
-Rig 01 :
 
-↪ 6x Rx580 8g de MSI Armor
+↪ 3 rig de 8x rx580 8g de MSI Armor
 
 ↪ Intel celeron
 
@@ -38,42 +37,15 @@ Rig 01 :
 ↪ Sous Easy Mining OS
 
 
-Rig 02 :
-
-↪ 6x 1080ti de chez Msi (oui j'aime msi)
-
-↪ Carte mère Gigabyte GA-H110-D3A 
-
-↪ 1g de ram noname
-
-↪ Dual Gamemax 2000w
-
-↪ Chassis en bois récup chez Lapeyre (y'en à pas deux ! 🎵)
-
-↪ Rizer noname (pas chers est fais le taff)
-
-↪ Partition 2 HDD 500g (très vieux disque horloge qui tien)
-
-↪ Sous Noicehash OS (Nicehash en réalisté mais j'aime bien le jeu de mot "noice")
-
-
-Rig 03 :
-
-Bah le même que le 02 ^^'
-
 #### 🔫 Les prochains en listes :
 (quand la moula sera présente)
 
-10 rigs de 6x Rx570 8g
+3 rigs de 6x 3080ti
 
 Why ? 
 
-↪ Car rien de peux rivalisé avec une rx570/580/590 et les Radeon VII
+↪ GPU le plus rentanble à ce jour
 
-↪ De grandes chances qu'ils soient tous sous noicehash OS !
-
-Pourquoi toujours noicehash ?
-
-↪ Possibilité de réalisé directement des paiment via virement bancaire ! 💱
+↪ Un peu de bruteforce fais pas mal :)
 
 <p align="center"><img src="https://zupimages.net/up/20/33/ktpj.jpg" width="727px" height="1000px" alt="aventium softworks"></p>
