@@ -46,6 +46,6 @@ Why ?
 
 ↪ GPU le plus rentanble à ce jour
 
-↪ Un peu de bruteforce fais pas mal :)
+↪ Un peu de bruteforce fais pas de mal :)
 
 <p align="center"><img src="https://zupimages.net/up/20/33/ktpj.jpg" width="727px" height="1000px" alt="aventium softworks"></p>
