@@ -44,7 +44,7 @@
 
 Why ? 
 
-↪ GPU le plus rentanble à ce jour
+↪ GPU le plus rentable à ce jour
 
 ↪ Un peu de bruteforce fais pas de mal :)
 
