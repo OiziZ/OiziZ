@@ -20,6 +20,9 @@
 
 <h2>Mon bot Discord :</h2>
 
+<p>
+https://img.shields.io/badge/discord-%23ED8B00.svg?style=for-the-badge&logo=discord&color=#7289DA
+</p>
 
 <p align="center"><a href="https://top.gg/bot/711143371510644767" >
   <img src="https://top.gg/api/widget/711143371510644767.svg" alt="🐲 | DragFaucet" />
@@ -28,6 +31,5 @@
 
 <p>Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !</p>
 
-https://img.shields.io/badge/discord-%23ED8B00.svg?style=for-the-badge&logo=discord&color=#7289DA
 
 <p align="center"><img src="https://zupimages.net/up/20/44/iff8.jpg" width="789px" height="715px" alt="aventium softworks"></p>
