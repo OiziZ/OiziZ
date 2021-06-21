@@ -20,11 +20,7 @@
 
 <h2>Mon bot Discord :</h2>
 
-<p>
-https://img.shields.io/badge/discord-%23ED8B00.svg?style=for-the-badge&logo=discord&color=#7289DA
-</p>
-
-<p align="center"><a href="https://top.gg/bot/711143371510644767" >
+<p align="left"><a href="https://top.gg/bot/711143371510644767" >
   <img src="https://top.gg/api/widget/711143371510644767.svg" alt="🐲 | DragFaucet" />
 </a>
 </p>
