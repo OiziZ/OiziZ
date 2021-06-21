@@ -1,5 +1,5 @@
 <p align="center"><img src="https://zupimages.net/up/20/33/qo1u.png" width="228px" height="187px" alt="aventium softworks"></p>
-<h1 align="center">[**OiziZ's Github**](https://github.com/OiziZ/OiziZ/)</h1>
+<h1 align="center">OiziZ's Github</h1>
 <p align="center">J'aime bien la programmation mais aime par-dessus tout l'hardware serveur 🙂, et j'allais oublier la cryptomonnaie</p>
 <p align="center">Il m'arrive de jouer à des jeux et regarder des animes 👾 (Konosuba > all)</p>
 
