@@ -28,6 +28,6 @@
 
 <p>Premier bot discord Français faucet collector réunissant plus de 75 faucets de cryptomonnaies tous honnêtes !</p>
 
-<p>https://img.shields.io/badge/discord-%23ED8B00.svg?style=for-the-badge&logo=discord&color=#7289DA</p>
+https://img.shields.io/badge/discord-%23ED8B00.svg?style=for-the-badge&logo=discord&color=#7289DA
 
 <p align="center"><img src="https://zupimages.net/up/20/44/iff8.jpg" width="789px" height="715px" alt="aventium softworks"></p>
