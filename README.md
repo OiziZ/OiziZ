@@ -8,7 +8,7 @@
 
 <h2>Ma chaîne Youtube :</h2>
 <p>
-<img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCfH29lAasOhgSm611LmCUkw?style=social"/>
+<img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCfH29lAasOhgSm611LmCUkw?style=social?style=flat-square&logo=appveyor"/>
 </p>
 
 <h2>Langague de programmation :</h2>
