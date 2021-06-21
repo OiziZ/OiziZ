@@ -4,7 +4,7 @@
 <p align="center">Il m'arrive de jouer à des jeux et regarder des animes 👾 (Konosuba > all)</p>
 
 
-## 🌐 Quelques spécifications :
+<h2>🌐 Quelques spécifications :</h2>
 
 <h2>Ma chaîne Youtube :</h2>
 <p>
